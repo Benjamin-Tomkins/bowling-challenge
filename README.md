@@ -44,7 +44,7 @@ Bowling Challenge
 [Video Explanation](https://www.youtube.com/watch?v=aBe71sD8o8c)
 
 
-### Sample ScoreCard
+### Screen Mockup/Guide :
 ![Ten Pin ScoreCard Example](images/BowlingScoreCard.jpg)
 
 ### Jasmine TDD Flow Chart :
@@ -128,11 +128,8 @@ Initial Model
 ```
 ![Ten Pin UML Diagram](images/BowlingChallenge.png)
 
-### Screen Mockup/Guide :
 
-```
-  TODO
-```
+=================
 
 
 ### Notes and Optional Extras :
