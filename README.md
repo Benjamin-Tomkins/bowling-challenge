@@ -8,8 +8,10 @@ Bowling Challenge
 ### Setup Instructions :
 
 ```
-  + Fork this repo;
-  + Do what you like ¯\_(ツ)_/¯
+  + Fork this repo
+  + Run ScoreCard.html to play
+  + Run SpecRunner to see all tests
+  + Enjoy! ¯\_(ツ)_/¯
 ```
 
 ### Task Constraints :
