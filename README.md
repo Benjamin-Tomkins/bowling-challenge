@@ -61,8 +61,8 @@ Bowling Challenge
 ```
   As an avid bowler
   To get the highest score possible
-  I want to knock down as many pins …
-    … as I can within two throws (a frame)
+  I want to take note of the number of pins I can …
+    … knock down within two throws of each frame
 ```
 
 ```
