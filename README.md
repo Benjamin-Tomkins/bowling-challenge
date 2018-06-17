@@ -47,6 +47,8 @@ Bowling Challenge
 ### Sample ScoreCard
 ![Ten Pin ScoreCard Example](images/BowlingScoreCard.jpg)
 
+### Jasmine TDD Flow Chart :
+![TDD Flow Diagram](images/TDD_FlowChart.png)
 
 ### User Stories :
 
