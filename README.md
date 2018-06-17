@@ -110,13 +110,6 @@ Bowling Challenge
 ```
   As a Score Card computer
   To computer the score of a frame
-  I must recognise that a 'strike can …
-    … be followed by a 'strike'
-```
-
-```
-  As a Score Card computer
-  To computer the score of a frame
   I must recognise that no more than 3 …
     … balls can be rolled in the 10th frame
 ```
