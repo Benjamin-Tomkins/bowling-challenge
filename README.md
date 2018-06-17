@@ -125,8 +125,7 @@ Bowling Challenge
 ![Ten Pin UML Diagram](images/BowlingChallenge.png)
 
 
-===============================
-
+---
 
 ### Notes and Optional Extras :
 
