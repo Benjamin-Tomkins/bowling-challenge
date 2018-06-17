@@ -72,7 +72,7 @@ You might even want to start with ESLint early on in your work — to help you
 learn Javascript conventions as you go along.
 
 
-## Code Review
+### Code Review
 
 In code review we'll be hoping to see:
 
