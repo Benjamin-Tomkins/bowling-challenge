@@ -2,7 +2,7 @@
 Bowling Challenge
 =================
 
-## [Makers Academy](https://makers.tech/) :: [Week 5/6 Weekend Challenge](https://github.com/makersacademy/bowling-challenge)
+### [Makers Academy](https://makers.tech/) :: [Week 5/6 Weekend Challenge](https://github.com/makersacademy/bowling-challenge)
 
 
 ### Setup Instructions :
