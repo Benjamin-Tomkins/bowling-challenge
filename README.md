@@ -34,12 +34,12 @@ Bowling Challenge
   + The score for the frame is the total number of pins knocked down
   + There are bonuses for ‘strikes’ [ x ] and ‘spares’ [ / ]
   + A spare is when the player knocks down all 10 pins within both allotted frame tries
-    + The bonus for a spare is the number of pins knocked down on the next roll
+  + The bonus for a spare is the number of pins knocked down on the next roll
   + A strike is when a player knocks down all 10 pins on the first try
-    + The bonus for a strike is the value of the next 2 balls rolled
+  + The bonus for a strike is the value of the next 2 balls rolled
   + In the 10th frame, a player who rolls a spare or strike are allowed to roll …
     … the extra balls to complete the frame
-    + No more than 3 balls can be rolled in the 10th frame
+  + No more than 3 balls can be rolled in the 10th frame
 ```
 [Video Explanation](https://www.youtube.com/watch?v=aBe71sD8o8c)
 
