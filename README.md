@@ -52,8 +52,13 @@ Bowling Challenge
 
 ### User Stories :
 
+notes :
+
 ```
-  TODO
+  As an avid bowler
+  To get the highest score possible
+  I want to knock down as many pins …
+    … as I can within two throws
 ```
 
 ### Logic Diagram :
