@@ -2,7 +2,7 @@
 Bowling Challenge
 =================
 
-### [Makers Academy](https://makers.tech/)::[Week 5/6 Weekend Challenge](https://github.com/makersacademy/bowling-challenge)
+### [Makers Academy](https://makers.tech/) :: [Week 5/6 Weekend Challenge](https://github.com/makersacademy/bowling-challenge)
 
 
 ## Setup Instructions :
@@ -15,19 +15,16 @@ Bowling Challenge
 ## Task Constraints :
 
 ```
-
   + This is not a bowling game, it's a bowling scorecard simulator
   + The code base for this site is JavaScript
   + All TTD is done with Jasmine 3.1.0, located in the lib folder
   + Tests can be run by opening the SpecRunner.html file in a browser
   + Opening the ScoreCard.html file will run the simulator in a browser
   + All rolls will be manually inputted by the user, similar to in a real game
-
 ```
 ## Bowling Rules :
 
 ```
-
   + The game consists of 10 frames
   + In each frame, the player has 2 opportunities to knock down 10 pins
   + The score for the frame is the total number of pins knocked down
@@ -39,7 +36,6 @@ Bowling Challenge
   + In the 10th frame, a player who rolls a spare or strike are allowed to roll …
     … the extra balls to complete the frame
     + No more than 3 balls can be rolled in the 10th frame
-
 ```
 [Video Explanation](https://www.youtube.com/watch?v=aBe71sD8o8c)
 
@@ -51,9 +47,7 @@ Bowling Challenge
 ## User Stories :
 
 ```
-
   TODO
-
 ```
 
 ## Logic Diagram :
