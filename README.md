@@ -9,7 +9,7 @@ Bowling Challenge
 
 ```
   + Fork this repo;
-  + Do what you like, it's your life ¯\_(ツ)_/¯
+  + Do what you like ¯\_(ツ)_/¯
 ```
 
 ### Task Constraints :
