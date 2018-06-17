@@ -117,6 +117,9 @@ Bowling Challenge
 
 ### Logic Diagram :
 
+```
+  TODO
+```
 
 ### UML Class Diagrams :
 
@@ -126,6 +129,10 @@ Initial Model
 ![Ten Pin UML Diagram](images/BowlingChallenge.png)
 
 ### Screen Mockup/Guide :
+
+```
+  TODO
+```
 
 
 ### Notes and Optional Extras :
