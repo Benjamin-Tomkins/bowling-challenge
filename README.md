@@ -52,13 +52,39 @@ Bowling Challenge
 
 ### User Stories :
 
-notes :
-
 ```
   As an avid bowler
   To get the highest score possible
   I want to knock down as many pins …
-    … as I can within two throws
+    … as I can within two throws (a frame)
+```
+
+```
+  As a Score Card computer
+  To compute the score of a frame with pins left standing
+  I want to add the total of pins not standing …
+    … to the overall score
+```
+
+```
+  As a Score Card computer
+  To know when a game is over
+  I must define a bowling game as consisting …
+    … of 10 frames
+```
+
+```
+  As a Score Card computer
+  To keep track of the game score
+  I must incrementally count the total …
+    … score over 10 frames
+```
+
+```
+  As a Score Card computer
+  To computer the score of a frame
+  I must recognise a 'strike' frame …
+    … and apply the correct rules
 ```
 
 ### Logic Diagram :
