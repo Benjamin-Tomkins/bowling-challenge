@@ -89,7 +89,7 @@ Bowling Challenge
 
 ```
   As a Score Card computer
-  To computer the score of a frame
+  To compute the score of a frame
   I must recognise a 'spare' frame …
     … and apply the correct rules
 ```
