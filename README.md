@@ -54,6 +54,12 @@ Bowling Challenge
 
 ```
   As an avid bowler
+  To show everyone my score in a ten pin bowling game
+  I want to assign my name to my score card
+```
+
+```
+  As an avid bowler
   To get the highest score possible
   I want to knock down as many pins …
     … as I can within two throws (a frame)
