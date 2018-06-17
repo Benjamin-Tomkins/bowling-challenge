@@ -2,6 +2,8 @@
 Bowling Challenge
 =================
 
+![JustBecause](images/ThisOneIsForYou_Rob.gif)
+
 ### [Makers Academy](https://makers.tech/) :: [Week 5/6 Weekend Challenge](https://github.com/makersacademy/bowling-challenge)
 
 
