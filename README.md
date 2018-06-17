@@ -59,6 +59,10 @@ Bowling Challenge
 
 ### UML Class Diagrams :
 
+```
+Initial Model
+```
+![Ten Pin UML Diagram](images/BowlingChallenge.png)
 
 ### Screen Mockup/Guide :
 
