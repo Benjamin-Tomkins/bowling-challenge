@@ -2,17 +2,17 @@
 Bowling Challenge
 =================
 
-### [Makers Academy](https://makers.tech/) :: [Week 5/6 Weekend Challenge](https://github.com/makersacademy/bowling-challenge)
+## [Makers Academy](https://makers.tech/) :: [Week 5/6 Weekend Challenge](https://github.com/makersacademy/bowling-challenge)
 
 
-## Setup Instructions :
+### Setup Instructions :
 
 ```
   + Fork this repo;
   + Do what you like, it's your life ¯\_(ツ)_/¯
 ```
 
-## Task Constraints :
+### Task Constraints :
 
 ```
   + This is not a bowling game, it's a bowling scorecard simulator
@@ -22,7 +22,7 @@ Bowling Challenge
   + Opening the ScoreCard.html file will run the simulator in a browser
   + All rolls will be manually inputted by the user, similar to in a real game
 ```
-## Bowling Rules :
+### Bowling Rules :
 
 ```
   + The game consists of 10 frames
@@ -40,20 +40,20 @@ Bowling Challenge
 [Video Explanation](https://www.youtube.com/watch?v=aBe71sD8o8c)
 
 
-## Sample ScoreCard
+### Sample ScoreCard
 ![Ten Pin ScoreCard Example](images/BowlingScoreCard.jpg)
 
 
-## User Stories :
+### User Stories :
 
 ```
   TODO
 ```
 
-## Logic Diagram :
+### Logic Diagram :
 
 
-## UML Class Diagrams :
+### UML Class Diagrams :
 
 
 ### Notes and Optional Extras :
