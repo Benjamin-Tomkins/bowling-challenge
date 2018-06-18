@@ -53,62 +53,62 @@ Bowling Challenge
 ### User Stories :
 
 ```
-  As an avid bowler
+1 As an avid bowler
   To show everyone my score in a ten pin bowling game
   I want to assign my name to my score card
 ```
 
 ```
-  As an avid bowler
+2 As an avid bowler
   To get the highest score possible
   I want to take note of the number of pins I can …
     … knock down within two throws of each frame
 ```
 
 ```
-  As a Score Card computer
+3 As a Score Card computer
   To compute the score of a frame with pins left standing
   I want to add the total of pins not standing …
     … to the overall score
 ```
 
 ```
-  As a Score Card computer
+4 As a Score Card computer
   To know when a game is over
   I must define a bowling game as consisting …
     … of 10 frames
 ```
 
 ```
-  As a Score Card computer
+5 As a Score Card computer
   To keep track of the game score
   I must incrementally count the total …
     … score over 10 frames
 ```
 
 ```
-  As a Score Card computer
+6 As a Score Card computer
   To computer the score of a frame
   I must recognise a 'strike' frame …
     … and apply the correct rules
 ```
 
 ```
-  As a Score Card computer
+7 As a Score Card computer
   To compute the score of a frame
   I must recognise a 'spare' frame …
     … and apply the correct rules
 ```
 
 ```
-  As a Score Card computer
+8 As a Score Card computer
   To computer the score of a frame
   I must recognise that a 'strike can …
     … be followed by a 'spare'
 ```
 
 ```
-  As a Score Card computer
+9 As a Score Card computer
   To computer the score of a frame
   I must recognise that no more than 3 …
     … balls can be rolled in the 10th frame
